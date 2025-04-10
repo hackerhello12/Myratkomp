@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYXJHYUlXaW1JWE11aURVTHM4cjN3@81.94.159.66:1080#%5BShadowsocks%20-%20tcp%5D%20rus
+vless://886a30c0-5b7d-4a15-9ee5-095159d8305c@95.85.14.44:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#%F0%9F%87%B3%F0%9F%87%B1Nederland
