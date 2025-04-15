@@ -1,1 +1,1 @@
-vless://0bb33633-a557-4005-b028-7d3ec8049f2e@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#German%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWWJYQ1Araisxb25nNUl1Qk1CZExxSnVBelA5NmdWdlFRU2NOZWl2TkM0PQ@77.83.86.166:443#%F0%9F%87%A9%F0%9F%87%AAGerman
